@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"errors"
 	"io"
-	"os/user"
+	//"os/user"
 )
 
 // AuthStatus represents the Status of an authentication mechanism.
